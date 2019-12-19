@@ -1,0 +1,412 @@
+{
+    "geofence" : {
+    "sets" : [ {
+      "center" : {
+        "info" : "navlakha square",
+        "latitude" : "22.691876",
+        "longitude" : "75.881174",
+        "radius" : "1.5"
+      },
+      "regions" : [ {
+        "center" : {
+          "info" : "ram mandir",
+          "latitude" : "22.697516",
+          "longitude" : "75.874028",
+          "radius" : "0.25"
+        },
+        "gf" : [ {
+          "info" : "rm cp1",
+          "latitude" : "22.695946",
+          "longitude" : "75.873559",
+          "radius" : "0.05"
+        }, {
+          "info" : "rm cp2",
+          "latitude" : "22.696579",
+          "longitude" : "75.875963",
+          "radius" : "0.05"
+        } ]
+      }, {
+        "center" : {
+          "info" : " govt law clg",
+          "latitude" : "22.691913",
+          "longitude" : "75.875037",
+          "radius" : "0.27"
+        },
+        "gf" : [ {
+          "info" : "clg cp1",
+          "latitude" : "22.689769",
+          "longitude" : "75.875534",
+          "radius" : "0.1"
+        }, {
+          "info" : "clg cp2",
+          "latitude" : "22.693729",
+          "longitude" : "75.873474",
+          "radius" : "0.1"
+        } ]
+      }, {
+        "center" : {
+          "info" : "inst of management study",
+          "latitude" : "22.691438",
+          "longitude" : "75.872133",
+          "radius" : "0.27"
+        },
+        "gf" : [ {
+          "info" : "inst cp1",
+          "latitude" : "22.691116",
+          "longitude" : "75.870212",
+          "radius" : "0.1"
+        }, {
+          "info" : "inst cp2",
+          "latitude" : "22.689373",
+          "longitude" : "75.871929",
+          "radius" : "0.1"
+        } ]
+      }, {
+        "center" : {
+          "info" : "madin mazjid",
+          "latitude" : "22.694408",
+          "longitude" : "75.886710",
+          "radius" : "0.27"
+        },
+        "gf" : [ {
+          "info" : "mazjid cp1",
+          "latitude" : "22.693570",
+          "longitude" : "75.884975",
+          "radius" : "0.1"
+        }, {
+          "info" : "mazjid cp2",
+          "latitude" : "22.692303",
+          "longitude" : "75.886091",
+          "radius" : "0.1"
+        } ]
+      }, {
+        "center" : {
+          "info" : "obc",
+          "latitude" : "22.695239",
+          "longitude" : "75.880401",
+          "radius" : "0.27"
+        },
+        "gf" : [ {
+          "info" : "obc cp1",
+          "latitude" : "22.694441",
+          "longitude" : "75.878881",
+          "radius" : "0.1"
+        }, {
+          "info" : "obc cp2",
+          "latitude" : "22.694758",
+          "longitude" : "75.882228",
+          "radius" : "0.1"
+        } ]
+      } ]
+    }, {
+      "center" : {
+        "info" : "vijay nagar",
+        "latitude" : "22.753287",
+        "longitude" : "75.895285",
+        "radius" : "1.8"
+      },
+      "regions" : [ {
+        "center" : {
+          "info" : "meghdoot garden",
+          "latitude" : "22.752161",
+          "longitude" : "75.887117",
+          "radius" : "0.5"
+        },
+        "gf" : [ {
+          "info" : "meghdoot cp1",
+          "latitude" : "22.751677",
+          "longitude" : "75.883251",
+          "radius" : "0.1"
+        }, {
+          "info" : "meghdoot cp2",
+          "latitude" : "22.749302",
+          "longitude" : "75.885139",
+          "radius" : "0.1"
+        } ]
+      }, {
+        "center" : {
+          "info" : "medanta hospital",
+          "latitude" : "22.747832",
+          "longitude" : "75.897010",
+          "radius" : "0.5"
+        },
+        "gf" : [ {
+          "info" : "medanta cp1",
+          "latitude" : "22.746611",
+          "longitude" : "75.893722",
+          "radius" : "0.1"
+        }, {
+          "info" : "medanta cp2",
+          "latitude" : "22.747878",
+          "longitude" : "75.899644",
+          "radius" : "0.1"
+        } ]
+      }, {
+        "center" : {
+          "info" : "ITMA",
+          "latitude" : "22.763064",
+          "longitude" : "75.895357",
+          "radius" : "0.5"
+        },
+        "gf" : [ {
+          "info" : "ITMA cp1",
+          "latitude" : "22.758612",
+          "longitude" : "75.888834",
+          "radius" : "0.1"
+        }, {
+          "info" : "ITMA cp2",
+          "latitude" : "22.761491",
+          "longitude" : "75.898528",
+          "radius" : "0.1"
+        } ]
+      }, {
+        "center" : {
+          "info" : "bombay hospital",
+          "latitude" : "22.753998",
+          "longitude" : "75.902282",
+          "radius" : "0.27"
+        },
+        "gf" : [ {
+          "info" : "bombay hospital cp1",
+          "latitude" : "22.753181",
+          "longitude" : "75.900846",
+          "radius" : "0.1"
+        }, {
+          "info" : "bombay hospital cp2",
+          "latitude" : "22.759117",
+          "longitude" : "75.887113",
+          "radius" : "0.1"
+        } ]
+      }, {
+        "center" : {
+          "info" : "synergy hospital",
+          "latitude" : "22.758572",
+          "longitude" : "75.888877",
+          "radius" : "0.25"
+        },
+        "gf" : [ {
+          "info" : "syngery  hospital cp1",
+          "latitude" : "22.759117",
+          "longitude" : "75.887113",
+          "radius" : "0.1"
+        }, {
+          "info" : "syngery  hospital cp2",
+          "latitude" : "22.757692",
+          "longitude" : "75.889774",
+          "radius" : "0.1"
+        } ]
+      } ]
+    }, {
+      "center" : {
+        "info" : "Lantern AND MALWA MILL",
+        "latitude" : "22.730834",
+        "longitude" : "75.869923",
+        "radius" : "0.9"
+      },
+      "regions" : [ {
+        "center" : {
+          "info" : "SGSITS Indore",
+          "latitude" : "22.725725",
+          "longitude" : "75.871506",
+          "radius" : "0.27"
+        },
+        "gf" : [ {
+          "info" : "Pratibimb Office SGSITS",
+          "latitude" : "22.72568866",
+          "longitude" : "75.87001899",
+          "radius" : "0.05"
+        }, {
+          "info" : "T-Point SGSITS",
+          "latitude" : "22.72558071952263",
+          "longitude" : "75.87289363030243",
+          "radius" : "0.03"
+        } ]
+      }, {
+        "center" : {
+          "info" : "malva mill",
+          "latitude" : "22.734153",
+          "longitude" : "75.875058",
+          "radius" : "0.25"
+        },
+        "gf" : [ {
+          "info" : "malva mill gate",
+          "latitude" : "22.734257",
+          "longitude" : "75.873717",
+          "radius" : "0.1"
+        }, {
+          "info" : "Bhandari hospital",
+          "latitude" : "22.733242",
+          "longitude" : " 75.875788",
+          "radius" : "0.1"
+        } ]
+      } ]
+    }, {
+      "center" : {
+        "info" : "Vandana Nagar",
+        "latitude" : "22.720927",
+        "longitude" : "75.892860",
+        "radius" : "0.9"
+      },
+      "regions" : [ {
+        "center" : {
+          "info" : "Palasia Geeta Bhawan",
+          "latitude" : "22.723690",
+          "longitude" : "75.887967",
+          "radius" : "0.28"
+        },
+        "gf" : [ {
+          "info" : "Nirali Mehta House",
+          "latitude" : "22.718063",
+          "longitude" : "75.889322",
+          "radius" : "0.1"
+        }, {
+          "info" : "Bhavin Jawade House",
+          "latitude" : "22.715227",
+          "longitude" : "75.889529",
+          "radius" : "0.1"
+        } ]
+      }, {
+        "center" : {
+          "info" : "Palasia",
+          "latitude" : "22.723690",
+          "longitude" : "75.889429",
+          "radius" : "0.28"
+        },
+        "gf" : [ {
+          "info" : "WittyFeed House",
+          "latitude" : "22.722707",
+          "longitude" : "75.886764",
+          "radius" : "0.1"
+        }, {
+          "info" : "Palasia Police Station",
+          "latitude" : "22.725174",
+          "longitude" : "75.887895",
+          "radius" : "0.1"
+        } ]
+      } ]
+    }, {
+      "center" : {
+        "info" : "Madhumilan  Set",
+        "latitude" : "22.713607",
+        "longitude" : "75.868193",
+        "radius" : "0.9"
+      },
+      "regions" : [ {
+        "center" : {
+          "info" : "Madhumilan",
+          "latitude" : "22.713064",
+          "longitude" : "75.874497",
+          "radius" : "0.2"
+        },
+        "gf" : [ {
+          "info" : "Dominos",
+          "latitude" : "22.713736",
+          "longitude" : "75.874568",
+          "radius" : "0.1"
+        } ]
+      }, {
+        "center" : {
+          "info" : "Regal Sqauare",
+          "latitude" : "22.718844",
+          "longitude" : "75.871098",
+          "radius" : "0.2"
+        },
+        "gf" : [ {
+          "info" : "INOX Tressure Island Next",
+          "latitude" : "22.718240",
+          "longitude" : "75.871570",
+          "radius" : "0.1"
+        } ]
+      } ]
+    }, {
+      "center" : {
+        "info" : "Delhi Embassy Set",
+        "latitude" : "28.565621",
+        "longitude" : "77.157221",
+        "radius" : "0.9"
+      },
+      "regions" : [ {
+        "center" : {
+          "info" : "Block D vasant vihar",
+          "latitude" : "28.566026",
+          "longitude" : "77.156449",
+          "radius" : "0.2"
+        },
+        "gf" : [ {
+          "info" : "TECC: Taiwan Embassy)",
+          "latitude" : "28.5656204",
+          "longitude" : "77.1561298",
+          "radius" : "0.1"
+        } ]
+      } ]
+    }, {
+      "center" : {
+        "info" : "jama mazjid",
+        "latitude" : "28.648452",
+        "longitude" : "77.234095",
+        "radius" : "1.9"
+      },
+      "regions" : [ {
+        "center" : {
+          "info" : "NDLS Railway Station",
+          "latitude" : "28.6413761",
+          "longitude" : "77.2224487",
+          "radius" : "0.4"
+        },
+        "gf" : [ {
+          "info" : "Tagore Road",
+          "latitude" : "28.641772",
+          "longitude" : "77.224026",
+          "radius" : "0.1"
+        } ]
+      }, {
+        "center" : {
+          "info" : "Red fort region",
+          "latitude" : "28.656248",
+          "longitude" : "77.2385693",
+          "radius" : "0.4"
+        },
+        "gf" : [ {
+          "info" : "Red fort",
+          "latitude" : "28.6558399",
+          "longitude" : "77.2406746",
+          "radius" : "0.1"
+        } ]
+      } ]
+    }, {
+      "center" : {
+        "info" : "india gate and rashtrapati bhawan Set",
+        "latitude" : "28.614849",
+        "longitude" : "77.180273",
+        "radius" : "2.5"
+      },
+      "regions" : [ {
+        "center" : {
+          "info" : "india gate region",
+          "latitude" : "28.614024",
+          "longitude" : "77.161958",
+          "radius" : "0.4"
+        },
+        "gf" : [ {
+          "info" : "India Gate Delhi",
+          "latitude" : "28.612894",
+          "longitude" : "77.1594694",
+          "radius" : "0.1"
+        } ]
+      }, {
+        "center" : {
+          "info" : "Rashtrapati bhawan region",
+          "latitude" : "28.6141697",
+          "longitude" : "77.1980865",
+          "radius" : "0.2"
+        },
+        "gf" : [ {
+          "info" : "Rashtrapati Bhawan",
+          "latitude" : "28.6146312",
+          "longitude" : "77.1990843",
+          "radius" : "0.1"
+        } ]
+      } ]
+    } ]
+  }
+}
