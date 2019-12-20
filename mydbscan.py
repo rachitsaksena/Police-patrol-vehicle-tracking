@@ -51,8 +51,9 @@ def MyDBSCAN(D, eps, MinPts):
         # Otherwise, if there are at least MinPts nearby, use this point as the 
         # seed for a new cluster.    
         else: 
-           C += 1
-           growCluster(D, labels, P, NeighborPts, C, eps, MinPts)
+            C += 1
+            growCluster(D, labels, P, NeighborPts, C, eps, MinPts)
+           
     
     # All data has been clustered!
     return labels
@@ -143,7 +144,7 @@ def Original_regionQuery(D, P, eps):
 def regionQuery(D, P, eps):
     neighbors = []
     for Pn in range(0, len(D)):
-        if geopy.distance.distance((D[P][0], D[P][1]), (D[Pn][0], D[Pn][1])) < (eps-D[Pn][2]):
+        if geopy.distance.distance((D[P][0], D[P][1]), (D[Pn][0], D[Pn][1])).km < (eps-D[Pn][2]):
             neighbors.append(Pn)
 
     return neighbors

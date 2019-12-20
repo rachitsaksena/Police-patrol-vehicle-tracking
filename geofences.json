@@ -14,7 +14,7 @@
           "longitude" : "75.874028",
           "radius" : "0.25"
         },
-        "gf" : [ {
+        "checkpoints" : [ {
           "info" : "rm cp1",
           "latitude" : "22.695946",
           "longitude" : "75.873559",
@@ -32,7 +32,7 @@
           "longitude" : "75.875037",
           "radius" : "0.27"
         },
-        "gf" : [ {
+        "checkpoints" : [ {
           "info" : "clg cp1",
           "latitude" : "22.689769",
           "longitude" : "75.875534",
@@ -50,7 +50,7 @@
           "longitude" : "75.872133",
           "radius" : "0.27"
         },
-        "gf" : [ {
+        "checkpoints" : [ {
           "info" : "inst cp1",
           "latitude" : "22.691116",
           "longitude" : "75.870212",
@@ -68,7 +68,7 @@
           "longitude" : "75.886710",
           "radius" : "0.27"
         },
-        "gf" : [ {
+        "checkpoints" : [ {
           "info" : "mazjid cp1",
           "latitude" : "22.693570",
           "longitude" : "75.884975",
@@ -86,7 +86,7 @@
           "longitude" : "75.880401",
           "radius" : "0.27"
         },
-        "gf" : [ {
+        "checkpoints" : [ {
           "info" : "obc cp1",
           "latitude" : "22.694441",
           "longitude" : "75.878881",
@@ -112,7 +112,7 @@
           "longitude" : "75.887117",
           "radius" : "0.5"
         },
-        "gf" : [ {
+        "checkpoints" : [ {
           "info" : "meghdoot cp1",
           "latitude" : "22.751677",
           "longitude" : "75.883251",
@@ -130,7 +130,7 @@
           "longitude" : "75.897010",
           "radius" : "0.5"
         },
-        "gf" : [ {
+        "checkpoints" : [ {
           "info" : "medanta cp1",
           "latitude" : "22.746611",
           "longitude" : "75.893722",
@@ -148,7 +148,7 @@
           "longitude" : "75.895357",
           "radius" : "0.5"
         },
-        "gf" : [ {
+        "checkpoints" : [ {
           "info" : "ITMA cp1",
           "latitude" : "22.758612",
           "longitude" : "75.888834",
@@ -166,7 +166,7 @@
           "longitude" : "75.902282",
           "radius" : "0.27"
         },
-        "gf" : [ {
+        "checkpoints" : [ {
           "info" : "bombay hospital cp1",
           "latitude" : "22.753181",
           "longitude" : "75.900846",
@@ -184,7 +184,7 @@
           "longitude" : "75.888877",
           "radius" : "0.25"
         },
-        "gf" : [ {
+        "checkpoints" : [ {
           "info" : "syngery  hospital cp1",
           "latitude" : "22.759117",
           "longitude" : "75.887113",
@@ -210,7 +210,7 @@
           "longitude" : "75.871506",
           "radius" : "0.27"
         },
-        "gf" : [ {
+        "checkpoints" : [ {
           "info" : "Pratibimb Office SGSITS",
           "latitude" : "22.72568866",
           "longitude" : "75.87001899",
@@ -228,7 +228,7 @@
           "longitude" : "75.875058",
           "radius" : "0.25"
         },
-        "gf" : [ {
+        "checkpoints" : [ {
           "info" : "malva mill gate",
           "latitude" : "22.734257",
           "longitude" : "75.873717",
@@ -254,7 +254,7 @@
           "longitude" : "75.887967",
           "radius" : "0.28"
         },
-        "gf" : [ {
+        "checkpoints" : [ {
           "info" : "Nirali Mehta House",
           "latitude" : "22.718063",
           "longitude" : "75.889322",
@@ -272,7 +272,7 @@
           "longitude" : "75.889429",
           "radius" : "0.28"
         },
-        "gf" : [ {
+        "checkpoints" : [ {
           "info" : "WittyFeed House",
           "latitude" : "22.722707",
           "longitude" : "75.886764",
@@ -298,7 +298,7 @@
           "longitude" : "75.874497",
           "radius" : "0.2"
         },
-        "gf" : [ {
+        "checkpoints" : [ {
           "info" : "Dominos",
           "latitude" : "22.713736",
           "longitude" : "75.874568",
@@ -311,7 +311,7 @@
           "longitude" : "75.871098",
           "radius" : "0.2"
         },
-        "gf" : [ {
+        "checkpoints" : [ {
           "info" : "INOX Tressure Island Next",
           "latitude" : "22.718240",
           "longitude" : "75.871570",
@@ -332,7 +332,7 @@
           "longitude" : "77.156449",
           "radius" : "0.2"
         },
-        "gf" : [ {
+        "checkpoints" : [ {
           "info" : "TECC: Taiwan Embassy)",
           "latitude" : "28.5656204",
           "longitude" : "77.1561298",
@@ -353,7 +353,7 @@
           "longitude" : "77.2224487",
           "radius" : "0.4"
         },
-        "gf" : [ {
+        "checkpoints" : [ {
           "info" : "Tagore Road",
           "latitude" : "28.641772",
           "longitude" : "77.224026",
@@ -366,7 +366,7 @@
           "longitude" : "77.2385693",
           "radius" : "0.4"
         },
-        "gf" : [ {
+        "checkpoints" : [ {
           "info" : "Red fort",
           "latitude" : "28.6558399",
           "longitude" : "77.2406746",
@@ -387,7 +387,7 @@
           "longitude" : "77.161958",
           "radius" : "0.4"
         },
-        "gf" : [ {
+        "checkpoints" : [ {
           "info" : "India Gate Delhi",
           "latitude" : "28.612894",
           "longitude" : "77.1594694",
@@ -400,7 +400,7 @@
           "longitude" : "77.1980865",
           "radius" : "0.2"
         },
-        "gf" : [ {
+        "checkpoints" : [ {
           "info" : "Rashtrapati Bhawan",
           "latitude" : "28.6146312",
           "longitude" : "77.1990843",

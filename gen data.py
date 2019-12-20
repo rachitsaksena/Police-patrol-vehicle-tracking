@@ -81,7 +81,7 @@ for set_number in range(number_of_sets):
                 "longitude" : region_center[1],
                 "radius" : region_radius
             },
-            "gf" : []
+            "checkpoints" : []
         }
         number_of_checkpoints = random.randint(1, 2)
         c_min_lat = region_center[0] - region_radius
@@ -107,8 +107,8 @@ for set_number in range(number_of_sets):
                 if inside and not overlap : flag = True
 
             checkpoints.append((checkpoint_center, checkpoint_radius))
-            data["geofence"]["sets"][set_number]["regions"][region_number]["gf"].append({})
-            data["geofence"]["sets"][set_number]["regions"][region_number]["gf"][checkpoint_number] = {
+            data["geofence"]["sets"][set_number]["regions"][region_number]["checkpoints"].append({})
+            data["geofence"]["sets"][set_number]["regions"][region_number]["checkpoints"][checkpoint_number] = {
                 "info" : "",
                 "latitude" : checkpoint_center[0],
                 "longitude" : checkpoint_center[1],
